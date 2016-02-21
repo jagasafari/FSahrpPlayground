@@ -1,0 +1,2 @@
+# FSahrpPlayground
+experimenting with F#
